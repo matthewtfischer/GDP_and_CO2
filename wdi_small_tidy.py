@@ -7,7 +7,3 @@ country_name = table["Country Name"]
 
 plt.plot(mortality_rate, gdp_per_cap)
 plt.show()
-
-
-print("test")
-#comment2
